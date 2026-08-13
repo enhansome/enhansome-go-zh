@@ -1,0 +1,519 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Go进阶: https://github.com/chai2010/advanced-go-programming-book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-07T01:08:59Z",
+            "owner": "chai2010",
+            "repo": "advanced-go-programming-book",
+            "stars": 20082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go圣经: https://gopl.io",
+          "description": ", https://github.com/golang-china/gopl-zh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-03T23:07:24Z",
+            "owner": "golang-china",
+            "repo": "gopl-zh",
+            "stars": 6348
+          }
+        }
+      ],
+      "title": "入门到精通"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Go&WebAssembly简介",
+          "description": "chai2010 Go·夜读 2019/08/15",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-10-20T07:11:46Z",
+            "owner": "golang-china",
+            "repo": "awesome-go-zh",
+            "stars": 1264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go语言简介",
+          "description": "chai2010 武汉·黄鹤会 2018/12/16",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-10-20T07:11:46Z",
+            "owner": "golang-china",
+            "repo": "awesome-go-zh",
+            "stars": 1264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GIAC: 2018 - Go 语言将要走向何方？",
+          "description": "chai2010 上海·GIAC全球互联网架构大会 2018/11/23",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-10-20T07:11:46Z",
+            "owner": "golang-china",
+            "repo": "awesome-go-zh",
+            "stars": 1264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go语言并发编程",
+          "description": "chai2010 武汉·光谷猫友会 2018/09/16, 整理01/整理02",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-10-20T07:11:46Z",
+            "owner": "golang-china",
+            "repo": "awesome-go-zh",
+            "stars": 1264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "深入CGO编程",
+          "description": "chai2010 GopherChina2018·上海 2018/04/15",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-30T10:56:00Z",
+            "owner": "chai2010",
+            "repo": "gopherchina2018-cgo-talk",
+            "stars": 336
+          }
+        }
+      ],
+      "title": "报告列表"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "官方收录图书: https://github.com/golang/go/wiki/Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:43:44Z",
+            "owner": "golang",
+            "repo": "go",
+            "stars": 135744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Web编程: https://github.com/astaxie/build-web-application-with-golang",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-12T00:47:46Z",
+            "owner": "astaxie",
+            "repo": "build-web-application-with-golang",
+            "stars": 43917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go高级编程: https://github.com/chai2010/advanced-go-programming-book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-07T01:08:59Z",
+            "owner": "chai2010",
+            "repo": "advanced-go-programming-book",
+            "stars": 20082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go语法树入门: https://github.com/chai2010/go-ast-book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-26T00:50:40Z",
+            "owner": "chai2010",
+            "repo": "go-ast-book",
+            "stars": 5507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "µGo语言实现: https://github.com/wa-lang/ugo-compiler-book",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-09-26T00:49:56Z",
+            "owner": "wa-lang",
+            "repo": "ugo-compiler-book",
+            "stars": 1537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "胡文Go.ogle: https://github.com/chai2010/gopherchina2018-cgo-talk/blob/master/go.ogle.pdf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-30T10:56:00Z",
+            "owner": "chai2010",
+            "repo": "gopherchina2018-cgo-talk",
+            "stars": 336
+          }
+        }
+      ],
+      "title": "Go语言电子书"
+    },
+    {
+      "description": "中文原创部分:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "自己动手写Java虚拟机",
+          "description": "张秀宏, 2016, 69元",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-04-05T14:55:38Z",
+            "owner": "zxh0",
+            "repo": "jvmgo-book",
+            "stars": 1660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "自己动手实现Lua",
+          "description": "张秀宏, 2018, 89元",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-08-18T02:33:25Z",
+            "owner": "zxh0",
+            "repo": "luago-book",
+            "stars": 965
+          }
+        }
+      ],
+      "title": "其它图书(Go语言相关)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/go/wiki/Go2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:43:44Z",
+            "owner": "golang",
+            "repo": "go",
+            "stars": 135744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/go/labels/Go2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:43:44Z",
+            "owner": "golang",
+            "repo": "go",
+            "stars": 135744
+          }
+        }
+      ],
+      "title": "Go2"
+    },
+    {
+      "description": "官方文档",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/go/wiki/vgo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:43:44Z",
+            "owner": "golang",
+            "repo": "go",
+            "stars": 135744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/go/wiki/Modules",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:43:44Z",
+            "owner": "golang",
+            "repo": "go",
+            "stars": 135744
+          }
+        }
+      ],
+      "title": "Go Modules"
+    },
+    {
+      "description": "Go team:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/groupcache",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-29T21:07:26Z",
+            "owner": "golang",
+            "repo": "groupcache",
+            "stars": 13337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/protobuf/",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-05T20:04:08Z",
+            "owner": "golang",
+            "repo": "protobuf",
+            "stars": 10084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/oauth2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-08T12:01:22Z",
+            "owner": "golang",
+            "repo": "oauth2",
+            "stars": 5889
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/glog",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-04-29T08:47:46Z",
+            "owner": "golang",
+            "repo": "glog",
+            "stars": 3599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/geo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T18:53:27Z",
+            "owner": "golang",
+            "repo": "geo",
+            "stars": 1847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/snappy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-16T11:44:14Z",
+            "owner": "golang",
+            "repo": "snappy",
+            "stars": 1567
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/golang/freetype",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-15T01:50:06Z",
+            "owner": "golang",
+            "repo": "freetype",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/rsc/goversion",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-01T15:00:58Z",
+            "owner": "rsc",
+            "repo": "goversion",
+            "stars": 272
+          }
+        }
+      ],
+      "title": "Go & Google 出品库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Go+ 语言, 许式伟",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/goplus/gop",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-08-11T17:07:42Z",
+                "owner": "goplus",
+                "repo": "xgo",
+                "stars": 9448
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "凹语言, 柴树杉/丁尔男/史斌",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/wa-lang/wa",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2026-04-30T10:43:49Z",
+                "owner": "wa-lang",
+                "repo": "wa",
+                "stars": 1767
+              }
+            }
+          ]
+        }
+      ],
+      "title": "新编程语言"
+    },
+    {
+      "description": "BoltDB",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/boltdb/bolt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2018-03-02T18:00:53Z",
+            "owner": "boltdb",
+            "repo": "bolt",
+            "stars": 14643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/etcd-io/bbolt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T11:26:11Z",
+            "owner": "etcd-io",
+            "repo": "bbolt",
+            "stars": 9680
+          }
+        }
+      ],
+      "title": "数据库 & ORM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "其他"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:55:50.490Z",
+    "original_repository": "golang-china/awesome-go-zh",
+    "original_repository_sha": "4c1631e1516fcb372b9caddca4c495a1a041b4c9",
+    "enhanced_repository": "enhansome/enhansome-go-zh",
+    "enhanced_repository_description": null,
+    "title": "Awesome Go资源精选中文版 with stars"
+  }
+}
