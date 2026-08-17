@@ -14,7 +14,7 @@
             "last_commit": "2025-10-07T01:08:59Z",
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20081
+            "stars": 20080
           }
         },
         {
@@ -124,7 +124,7 @@
             "last_commit": "2026-08-15T12:09:09Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135788
+            "stars": 135825
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2024-05-12T00:47:46Z",
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43915
+            "stars": 43901
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2025-10-07T01:08:59Z",
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20081
+            "stars": 20080
           }
         },
         {
@@ -248,7 +248,7 @@
             "last_commit": "2026-08-15T12:09:09Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135788
+            "stars": 135825
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2026-08-15T12:09:09Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135788
+            "stars": 135825
           }
         }
       ],
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-15T12:09:09Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135788
+            "stars": 135825
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2026-08-15T12:09:09Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135788
+            "stars": 135825
           }
         }
       ],
@@ -316,7 +316,7 @@
             "last_commit": "2024-11-29T21:07:26Z",
             "owner": "golang",
             "repo": "groupcache",
-            "stars": 13336
+            "stars": 13333
           }
         },
         {
@@ -344,7 +344,7 @@
             "last_commit": "2026-03-08T12:01:22Z",
             "owner": "golang",
             "repo": "oauth2",
-            "stars": 5889
+            "stars": 5890
           }
         },
         {
@@ -436,10 +436,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T01:12:30Z",
+                "last_commit": "2026-08-16T10:12:48Z",
                 "owner": "goplus",
                 "repo": "xgo",
-                "stars": 9447
+                "stars": 9448
               }
             }
           ]
@@ -482,7 +482,7 @@
             "last_commit": "2018-03-02T18:00:53Z",
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14643
+            "stars": 14642
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2026-08-14T11:53:33Z",
             "owner": "etcd-io",
             "repo": "bbolt",
-            "stars": 9685
+            "stars": 9686
           }
         }
       ],
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T08:02:42.103Z",
+    "last_updated": "2026-08-17T08:26:15.454Z",
     "original_repository": "golang-china/awesome-go-zh",
     "original_repository_sha": "4c1631e1516fcb372b9caddca4c495a1a041b4c9",
     "enhanced_repository": "enhansome/enhansome-go-zh",
