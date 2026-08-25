@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T10:18:01Z",
             "owner": "kcl-lang",
             "repo": "kcl",
-            "stars": 2401
+            "stars": 2402
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 488866928,
             "language": "Go",
-            "last_commit": "2026-08-22T02:05:19Z",
+            "last_commit": "2026-08-24T21:43:49Z",
             "owner": "KusionStack",
             "repo": "kusion",
             "stars": 1316
@@ -66,7 +66,7 @@
             "last_commit": "2025-10-07T01:08:59Z",
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20087
+            "stars": 20088
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-07-03T23:07:24Z",
             "owner": "golang-china",
             "repo": "gopl-zh",
-            "stars": 6349
+            "stars": 6348
           }
         }
       ],
@@ -99,15 +99,15 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136203
+            "stars": 136443
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/proposal/blob/master/design/go2draft-generics-overview.md",
+          "title": "golang/proposal",
           "description": null,
           "children": [],
           "repo_info": {
@@ -122,7 +122,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/proposal/blob/master/design/go2draft-error-handling.md",
+          "title": "golang/proposal",
           "description": null,
           "children": [],
           "repo_info": {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136203
+            "stars": 136443
           }
         },
         {
@@ -264,7 +264,7 @@
             "last_commit": "2024-05-12T00:47:46Z",
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43908
+            "stars": 43907
           }
         },
         {
@@ -279,7 +279,7 @@
             "last_commit": "2025-10-07T01:08:59Z",
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20087
+            "stars": 20088
           }
         },
         {
@@ -386,32 +386,32 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/golang/go/wiki/Go2",
+          "title": "golang/go",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136203
+            "stars": 136443
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/go/labels/Go2",
+          "title": "golang/go",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136203
+            "stars": 136443
           }
         }
       ],
@@ -422,32 +422,32 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/golang/go/wiki/vgo",
+          "title": "golang/go",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136203
+            "stars": 136443
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/go/wiki/Modules",
+          "title": "golang/go",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136203
+            "stars": 136443
           }
         }
       ],
@@ -458,7 +458,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/golang/groupcache",
+          "title": "golang/groupcache",
           "description": null,
           "children": [],
           "repo_info": {
@@ -473,7 +473,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/protobuf/",
+          "title": "golang/protobuf",
           "description": null,
           "children": [],
           "repo_info": {
@@ -483,12 +483,12 @@
             "last_commit": "2024-08-05T20:04:08Z",
             "owner": "golang",
             "repo": "protobuf",
-            "stars": 10083
+            "stars": 10084
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/oauth2",
+          "title": "golang/oauth2",
           "description": null,
           "children": [],
           "repo_info": {
@@ -503,7 +503,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/glog",
+          "title": "golang/glog",
           "description": null,
           "children": [],
           "repo_info": {
@@ -518,14 +518,14 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/geo",
+          "title": "golang/geo",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 27512134,
             "language": "Go",
-            "last_commit": "2026-08-18T12:53:58Z",
+            "last_commit": "2026-08-24T18:16:29Z",
             "owner": "golang",
             "repo": "geo",
             "stars": 1849
@@ -533,7 +533,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/snappy",
+          "title": "golang/snappy",
           "description": null,
           "children": [],
           "repo_info": {
@@ -548,7 +548,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/golang/freetype",
+          "title": "golang/freetype",
           "description": null,
           "children": [],
           "repo_info": {
@@ -563,7 +563,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rsc/goversion",
+          "title": "rsc/goversion",
           "description": null,
           "children": [],
           "repo_info": {
@@ -578,44 +578,44 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/grpc/grpc-go",
+          "title": "grpc/grpc-go",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 27729907,
             "language": "Go",
-            "last_commit": "2026-08-24T10:43:32Z",
+            "last_commit": "2026-08-24T15:28:09Z",
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23031
+            "stars": 23032
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/google/gvisor",
+          "title": "google/gvisor",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-24T06:16:16Z",
+            "last_commit": "2026-08-25T04:05:18Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19146
+            "stars": 19152
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/google/go-cloud",
+          "title": "google/go-cloud",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 126250425,
             "language": "Go",
-            "last_commit": "2026-08-14T00:10:02Z",
+            "last_commit": "2026-08-24T17:58:44Z",
             "owner": "google",
             "repo": "go-cloud",
             "stars": 9909
@@ -623,22 +623,22 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/googleapis/googleapis",
+          "title": "googleapis/googleapis",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 32887098,
             "language": "Starlark",
-            "last_commit": "2026-08-24T05:55:10Z",
+            "last_commit": "2026-08-24T21:35:47Z",
             "owner": "googleapis",
             "repo": "googleapis",
-            "stars": 8711
+            "stars": 8713
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/google/gops",
+          "title": "google/gops",
           "description": null,
           "children": [],
           "repo_info": {
@@ -653,7 +653,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/google/google-api-go-client",
+          "title": "googleapis/google-api-go-client",
           "description": null,
           "children": [],
           "repo_info": {
@@ -663,12 +663,12 @@
             "last_commit": "2026-08-24T07:38:56Z",
             "owner": "googleapis",
             "repo": "google-api-go-client",
-            "stars": 4465
+            "stars": 4467
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/google/btree",
+          "title": "google/btree",
           "description": null,
           "children": [],
           "repo_info": {
@@ -694,7 +694,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/goplus/gop",
+              "title": "goplus/xgo",
               "description": null,
               "children": [],
               "repo_info": {
@@ -716,7 +716,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/wa-lang/wa",
+              "title": "wa-lang/wa",
               "description": null,
               "children": [],
               "repo_info": {
@@ -739,22 +739,22 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/golang/go/tree/master/misc/wasm",
+          "title": "golang/go",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136203
+            "stars": 136443
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mbasso/awesome-wasm",
+          "title": "mbasso/awesome-wasm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -764,12 +764,12 @@
             "last_commit": "2024-11-15T14:58:04Z",
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9626
+            "stars": 9627
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chai2010/awesome-wasm-zh",
+          "title": "wasmlang/awesome-wasm-zh",
           "description": null,
           "children": [],
           "repo_info": {
@@ -805,7 +805,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/boltdb/bolt",
+          "title": "boltdb/bolt",
           "description": null,
           "children": [],
           "repo_info": {
@@ -820,22 +820,22 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/etcd-io/bbolt",
+          "title": "etcd-io/bbolt",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 94593596,
             "language": "Go",
-            "last_commit": "2026-08-21T11:24:01Z",
+            "last_commit": "2026-08-24T20:30:47Z",
             "owner": "etcd-io",
             "repo": "bbolt",
-            "stars": 9698
+            "stars": 9700
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dgraph-io/badger",
+          "title": "dgraph-io/badger",
           "description": null,
           "children": [],
           "repo_info": {
@@ -845,12 +845,12 @@
             "last_commit": "2026-08-22T14:15:18Z",
             "owner": "dgraph-io",
             "repo": "badger",
-            "stars": 15758
+            "stars": 15761
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/syndtr/goleveldb",
+          "title": "syndtr/goleveldb",
           "description": null,
           "children": [],
           "repo_info": {
@@ -865,7 +865,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mattn/go-sqlite3",
+          "title": "mattn/go-sqlite3",
           "description": null,
           "children": [],
           "repo_info": {
@@ -880,7 +880,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/go-gorp/gorp",
+          "title": "go-gorp/gorp",
           "description": null,
           "children": [],
           "repo_info": {
@@ -895,7 +895,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/jinzhu/gorm",
+          "title": "jinzhu/gorm",
           "description": null,
           "children": [],
           "repo_info": {
@@ -910,7 +910,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/rsc/dbstore",
+          "title": "rsc/dbstore",
           "description": null,
           "children": [],
           "repo_info": {
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:16:26.582Z",
+    "last_updated": "2026-08-25T06:06:44.373Z",
     "original_repository": "golang-china/awesome-go-zh",
     "original_repository_id": 144795123,
     "original_repository_sha": "4c1631e1516fcb372b9caddca4c495a1a041b4c9",
