@@ -12,7 +12,7 @@
             "archived": false,
             "id": 488865524,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:43:29Z",
+            "last_commit": "2026-08-27T17:07:25Z",
             "owner": "kcl-lang",
             "repo": "kcl",
             "stars": 2404
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T17:55:28Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136543
           }
         },
         {
@@ -246,10 +246,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T17:55:28Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136543
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2024-09-26T00:50:40Z",
             "owner": "chai2010",
             "repo": "go-ast-book",
-            "stars": 5508
+            "stars": 5509
           }
         },
         {
@@ -393,10 +393,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T17:55:28Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136543
           }
         },
         {
@@ -408,10 +408,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T17:55:28Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136543
           }
         }
       ],
@@ -429,10 +429,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T17:55:28Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136543
           }
         },
         {
@@ -444,10 +444,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T17:55:28Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136543
           }
         }
       ],
@@ -585,10 +585,10 @@
             "archived": false,
             "id": 27729907,
             "language": "Go",
-            "last_commit": "2026-08-27T11:39:40Z",
+            "last_commit": "2026-08-27T13:16:15Z",
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23037
+            "stars": 23040
           }
         },
         {
@@ -600,10 +600,10 @@
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-27T11:33:39Z",
+            "last_commit": "2026-08-27T18:21:23Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19168
+            "stars": 19170
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-08-24T17:58:44Z",
             "owner": "google",
             "repo": "go-cloud",
-            "stars": 9911
+            "stars": 9910
           }
         },
         {
@@ -630,10 +630,10 @@
             "archived": false,
             "id": 32887098,
             "language": "Starlark",
-            "last_commit": "2026-08-27T04:29:45Z",
+            "last_commit": "2026-08-27T16:54:17Z",
             "owner": "googleapis",
             "repo": "googleapis",
-            "stars": 8715
+            "stars": 8718
           }
         },
         {
@@ -663,7 +663,7 @@
             "last_commit": "2026-08-27T07:56:56Z",
             "owner": "googleapis",
             "repo": "google-api-go-client",
-            "stars": 4467
+            "stars": 4466
           }
         },
         {
@@ -704,7 +704,7 @@
                 "last_commit": "2026-08-25T13:28:08Z",
                 "owner": "goplus",
                 "repo": "xgo",
-                "stars": 9450
+                "stars": 9451
               }
             }
           ]
@@ -746,10 +746,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T04:31:00Z",
+            "last_commit": "2026-08-27T17:55:28Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136538
+            "stars": 136543
           }
         },
         {
@@ -830,7 +830,7 @@
             "last_commit": "2026-08-26T08:51:47Z",
             "owner": "etcd-io",
             "repo": "bbolt",
-            "stars": 9705
+            "stars": 9706
           }
         },
         {
@@ -860,7 +860,7 @@
             "last_commit": "2024-05-14T20:40:52Z",
             "owner": "syndtr",
             "repo": "goleveldb",
-            "stars": 6325
+            "stars": 6324
           }
         },
         {
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:58.488Z",
+    "last_updated": "2026-08-27T18:25:02.285Z",
     "original_repository_info": {
       "archived": false,
       "id": 144795123,
