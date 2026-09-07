@@ -1,8 +1,8 @@
 # Awesome Go资源精选中文版 with stars
 
 * *KCL 配置编程语言(Rust): <https://github.com/KusionStack/KCLVM> ⭐ 2,409 | 🐛 19 | 🌐 Rust | 📅 2026-09-02*
-* *凹语言™: <https://github.com/wa-lang/wa> ⭐ 1,767 | 🐛 6 | 🌐 Go | 📅 2026-04-30*
-* *KusonStack一站式可编程配置技术栈(Go): <https://github.com/KusionStack/kusion> ⭐ 1,317 | 🐛 55 | 🌐 Go | 📅 2026-09-02*
+* *凹语言™: <https://github.com/wa-lang/wa> ⭐ 1,768 | 🐛 6 | 🌐 Go | 📅 2026-04-30*
+* *KusonStack一站式可编程配置技术栈(Go): <https://github.com/KusionStack/kusion> ⭐ 1,318 | 🐛 55 | 🌐 Go | 📅 2026-09-02*
 
 ***
 
@@ -19,7 +19,7 @@ Go中国讨论组: <https://groups.google.com/forum/#!forum/golang-china>
 
 ## 其它awesome
 
-* <https://github.com/avelino/awesome-go> ⭐ 183,300 | 🐛 224 | 🌐 Go | 📅 2026-09-06
+* <https://github.com/avelino/awesome-go> ⭐ 183,414 | 🐛 224 | 🌐 Go | 📅 2026-09-06
 
 ## 中国区Go语言贡献者
 
@@ -29,15 +29,15 @@ Go中国讨论组: <https://groups.google.com/forum/#!forum/golang-china>
 
 ## 入门到精通
 
-1. Go进阶: <https://github.com/chai2010/advanced-go-programming-book> ⭐ 20,097 | 🐛 61 | 🌐 Go | 📅 2025-10-07
-2. Go圣经: <https://gopl.io>, <https://github.com/golang-china/gopl-zh> ⭐ 6,346 | 🐛 22 | 🌐 HTML | 📅 2026-07-03
+1. Go进阶: <https://github.com/chai2010/advanced-go-programming-book> ⭐ 20,095 | 🐛 61 | 🌐 Go | 📅 2025-10-07
+2. Go圣经: <https://gopl.io>, <https://github.com/golang-china/gopl-zh> ⭐ 6,350 | 🐛 22 | 🌐 HTML | 📅 2026-07-03
 3. Go指南: <https://tour.golang.org>, <https://tour.go-zh.org/>
 
 ***
 
 ## 官方文档(所有第三方文档的灵感来源)
 
-1. 维基: <https://github.com/golang/go/wiki> ⭐ 137,549 | 🐛 10,121 | 🌐 Go | 📅 2026-09-05
+1. 维基: <https://github.com/golang/go/wiki> ⭐ 138,017 | 🐛 10,127 | 🌐 Go | 📅 2026-09-05
 2. 官网: <https://golang.org/>, <https://golang.google.cn/>
 3. 博客: <https://blog.golang.org/>
 4. 报告: <https://talks.golang.org/>
@@ -79,7 +79,7 @@ Go2 草案:
 
 ## 报告列表
 
-1. [Go\&WebAssembly简介](https://talks.godoc.org/github.com/chai2010/awesome-go-zh/chai2010/chai2010-golang-wasm.slide) - [chai2010](https://github.com/chai2010/awesome-go-zh/tree/master/chai2010) ⭐ 1,266 | 🐛 2 | 🌐 Go | 📅 2022-10-20 [Go·夜读](https://github.com/developer-learning/reading-go/issues/445) ⭐ 12,289 | 🐛 14 | 🌐 Go | 📅 2026-07-21 2019/08/15
+1. [Go\&WebAssembly简介](https://talks.godoc.org/github.com/chai2010/awesome-go-zh/chai2010/chai2010-golang-wasm.slide) - [chai2010](https://github.com/chai2010/awesome-go-zh/tree/master/chai2010) ⭐ 1,266 | 🐛 2 | 🌐 Go | 📅 2022-10-20 [Go·夜读](https://github.com/developer-learning/reading-go/issues/445) ⭐ 12,290 | 🐛 14 | 🌐 Go | 📅 2026-07-21 2019/08/15
 2. [Go语言简介](https://talks.godoc.org/github.com/chai2010/awesome-go-zh/chai2010/chai2010-golang-intro.slide) - [chai2010](https://github.com/chai2010/awesome-go-zh/tree/master/chai2010) ⭐ 1,266 | 🐛 2 | 🌐 Go | 📅 2022-10-20 武汉·黄鹤会 2018/12/16
 3. [GIAC: 2018 - Go 语言将要走向何方？](chai2010/giac2018) - [chai2010](https://github.com/chai2010/awesome-go-zh/tree/master/chai2010) ⭐ 1,266 | 🐛 2 | 🌐 Go | 📅 2022-10-20 上海·GIAC全球互联网架构大会 2018/11/23
 4. [Go语言并发编程](https://talks.godoc.org/github.com/chai2010/awesome-go-zh/chai2010/chai2010-golang-concurrency.slide) - [chai2010](https://github.com/chai2010/awesome-go-zh/tree/master/chai2010) ⭐ 1,266 | 🐛 2 | 🌐 Go | 📅 2022-10-20 武汉·光谷猫友会 2018/09/16, [整理01](https://mp.weixin.qq.com/s/UaY9gJU85dq-dXlOhLYY1Q)/[整理02](https://mp.weixin.qq.com/s/_aKNO-H11GEDA-l0rycfQQ)
@@ -90,9 +90,9 @@ Go2 草案:
 
 ## Go语言电子书
 
-1. 官方收录图书: <https://github.com/golang/go/wiki/Books> ⭐ 137,549 | 🐛 10,121 | 🌐 Go | 📅 2026-09-05
-2. Go Web编程: <https://github.com/astaxie/build-web-application-with-golang> ⭐ 43,907 | 🐛 139 | 🌐 Go | 📅 2024-05-12
-3. Go高级编程: <https://github.com/chai2010/advanced-go-programming-book> ⭐ 20,097 | 🐛 61 | 🌐 Go | 📅 2025-10-07
+1. 官方收录图书: <https://github.com/golang/go/wiki/Books> ⭐ 138,017 | 🐛 10,127 | 🌐 Go | 📅 2026-09-05
+2. Go Web编程: <https://github.com/astaxie/build-web-application-with-golang> ⭐ 43,906 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+3. Go高级编程: <https://github.com/chai2010/advanced-go-programming-book> ⭐ 20,095 | 🐛 61 | 🌐 Go | 📅 2025-10-07
 4. Go语法树入门: <https://github.com/chai2010/go-ast-book> ⭐ 5,515 | 🐛 8 | 🌐 Go | 📅 2024-09-26
 5. µGo语言实现: <https://github.com/wa-lang/ugo-compiler-book> ⭐ 1,537 | 🐛 6 | 🌐 Go | 📅 2024-09-26
 6. 胡文Go.ogle: <https://github.com/chai2010/gopherchina2018-cgo-talk/blob/master/go.ogle.pdf> ⭐ 337 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-30
@@ -155,7 +155,7 @@ Go2图书：
 
 中文原创部分:
 
-1. [自己动手写Java虚拟机](https://github.com/zxh0/jvmgo-book) ⭐ 1,661 | 🐛 9 | 🌐 Go | 📅 2022-04-05: 张秀宏, 2016, 69元
+1. [自己动手写Java虚拟机](https://github.com/zxh0/jvmgo-book) ⭐ 1,662 | 🐛 9 | 🌐 Go | 📅 2022-04-05: 张秀宏, 2016, 69元
 2. [自己动手实现Lua](https://github.com/zxh0/luago-book) ⭐ 964 | 🐛 6 | 🌐 Go | 📅 2022-08-18: 张秀宏, 2018, 89元
 3. [分布式缓存——原理、架构及Go语言实现](https://www.epubit.com/book/detail/39324): 胡世杰, 2018, 49元
 4. [分布式对象存储 原理 架构及Go语言实现](http://product.china-pub.com/8016311): 胡世杰, 2018, 59元
@@ -169,15 +169,15 @@ Go2图书：
 
 ## Go2
 
-* <https://github.com/golang/go/wiki/Go2> ⭐ 137,549 | 🐛 10,121 | 🌐 Go | 📅 2026-09-05
-* <https://github.com/golang/go/labels/Go2> ⭐ 137,549 | 🐛 10,121 | 🌐 Go | 📅 2026-09-05
+* <https://github.com/golang/go/wiki/Go2> ⭐ 138,017 | 🐛 10,127 | 🌐 Go | 📅 2026-09-05
+* <https://github.com/golang/go/labels/Go2> ⭐ 138,017 | 🐛 10,127 | 🌐 Go | 📅 2026-09-05
 
 ## Go Modules
 
 **官方文档**
 
-* <https://github.com/golang/go/wiki/vgo> ⭐ 137,549 | 🐛 10,121 | 🌐 Go | 📅 2026-09-05
-* <https://github.com/golang/go/wiki/Modules> ⭐ 137,549 | 🐛 10,121 | 🌐 Go | 📅 2026-09-05
+* <https://github.com/golang/go/wiki/vgo> ⭐ 138,017 | 🐛 10,127 | 🌐 Go | 📅 2026-09-05
+* <https://github.com/golang/go/wiki/Modules> ⭐ 138,017 | 🐛 10,127 | 🌐 Go | 📅 2026-09-05
 * <https://tip.golang.org/cmd/go/#hdr-Modules__module_versions__and_more>
 * <https://research.swtch.com/vgo>
 
@@ -199,22 +199,22 @@ Go2图书：
 *Go team:*
 
 * <https://github.com/golang/groupcache> ⭐ 13,336 | 🐛 46 | 🌐 Go | 📅 2024-11-29
-* <https://github.com/golang/protobuf/> ⭐ 10,087 | 🐛 115 | 🌐 Go | 📅 2024-08-05
+* <https://github.com/golang/protobuf/> ⭐ 10,086 | 🐛 115 | 🌐 Go | 📅 2024-08-05
 * <https://github.com/golang/oauth2> ⭐ 5,898 | 🐛 61 | 🌐 Go | 📅 2026-08-25
 * <https://github.com/golang/glog> ⭐ 3,599 | 🐛 3 | 🌐 Go | 📅 2025-04-29
 * <https://github.com/golang/geo> ⭐ 1,853 | 🐛 37 | 🌐 Go | 📅 2026-08-31
-* <https://github.com/golang/snappy> ⭐ 1,569 | 🐛 18 | 🌐 Go | 📅 2026-07-16
+* <https://github.com/golang/snappy> ⭐ 1,568 | 🐛 18 | 🌐 Go | 📅 2026-07-16
 * <https://github.com/golang/freetype> ⚠️ Archived
 * <https://github.com/rsc/goversion> ⭐ 271 | 🐛 16 | 🌐 Go | 📅 2024-07-01
 
 *Google team:*
 
-* <https://github.com/grpc/grpc-go> ⭐ 23,045 | 🐛 138 | 🌐 Go | 📅 2026-09-04
-* <https://github.com/google/gvisor> ⭐ 19,238 | 🐛 872 | 🌐 Go | 📅 2026-09-06
-* <https://github.com/google/go-cloud> ⭐ 9,912 | 🐛 3 | 🌐 Go | 📅 2026-09-05
-* <https://github.com/googleapis/googleapis> ⭐ 8,731 | 🐛 51 | 🌐 Starlark | 📅 2026-09-04
+* <https://github.com/grpc/grpc-go> ⭐ 23,048 | 🐛 140 | 🌐 Go | 📅 2026-09-07
+* <https://github.com/google/gvisor> ⭐ 19,240 | 🐛 868 | 🌐 Go | 📅 2026-09-07
+* <https://github.com/google/go-cloud> ⭐ 9,912 | 🐛 3 | 🌐 Go | 📅 2026-09-06
+* <https://github.com/googleapis/googleapis> ⭐ 8,737 | 🐛 51 | 🌐 Starlark | 📅 2026-09-07
 * <https://github.com/google/gops> ⭐ 7,016 | 🐛 34 | 🌐 Go | 📅 2026-07-16
-* <https://github.com/google/google-api-go-client> ⭐ 4,470 | 🐛 20 | 🌐 Go | 📅 2026-09-03
+* <https://github.com/google/google-api-go-client> ⭐ 4,471 | 🐛 20 | 🌐 Go | 📅 2026-09-03
 * <https://github.com/google/btree> ⚠️ Archived
 
 ***
@@ -222,9 +222,9 @@ Go2图书：
 ## 新编程语言
 
 * Go+ 语言, 许式伟
-  * <https://github.com/goplus/gop> ⭐ 9,457 | 🐛 44 | 🌐 Go | 📅 2026-09-05
+  * <https://github.com/goplus/gop> ⭐ 9,456 | 🐛 44 | 🌐 Go | 📅 2026-09-05
 * 凹语言, 柴树杉/丁尔男/史斌
-  * <https://github.com/wa-lang/wa> ⭐ 1,767 | 🐛 6 | 🌐 Go | 📅 2026-04-30
+  * <https://github.com/wa-lang/wa> ⭐ 1,768 | 🐛 6 | 🌐 Go | 📅 2026-04-30
 
 ***
 
@@ -232,7 +232,7 @@ Go2图书：
 
 **Go官方资料**
 
-* <https://github.com/golang/go/tree/master/misc/wasm> ⭐ 137,549 | 🐛 10,121 | 🌐 Go | 📅 2026-09-05
+* <https://github.com/golang/go/tree/master/misc/wasm> ⭐ 138,017 | 🐛 10,127 | 🌐 Go | 📅 2026-09-05
 * <https://tip.golang.org/pkg/syscall/js>
 
 **wasm资料精选**
@@ -252,7 +252,7 @@ Go2图书：
 
 ## 云计算
 
-* <https://github.com/google/go-cloud> ⭐ 9,912 | 🐛 3 | 🌐 Go | 📅 2026-09-05
+* <https://github.com/google/go-cloud> ⭐ 9,912 | 🐛 3 | 🌐 Go | 📅 2026-09-06
 * [Portable Cloud Programming with Go Cloud](https://blog.golang.org/go-cloud), [中文](http://www.53it.net/show/1708.html)
 * <https://cloud.google.com/appengine/docs/standard/go/>
 * [Google Cloud Functions for Go](https://medium.com/google-cloud/google-cloud-functions-for-go-57e4af9b10da)
@@ -264,20 +264,20 @@ Go2图书：
 **BoltDB**
 
 * <https://github.com/boltdb/bolt> ⚠️ Archived
-* <https://github.com/etcd-io/bbolt> ⭐ 9,720 | 🐛 32 | 🌐 Go | 📅 2026-09-02
+* <https://github.com/etcd-io/bbolt> ⭐ 9,724 | 🐛 31 | 🌐 Go | 📅 2026-09-02
 
 **LevelDB**
 
-* <https://github.com/dgraph-io/badger> ⭐ 15,759 | 🐛 68 | 🌐 Go | 📅 2026-09-05
-* <https://github.com/syndtr/goleveldb> ⭐ 6,323 | 🐛 111 | 🌐 Go | 📅 2024-05-14
+* <https://github.com/dgraph-io/badger> ⭐ 15,758 | 🐛 68 | 🌐 Go | 📅 2026-09-05
+* <https://github.com/syndtr/goleveldb> ⭐ 6,322 | 🐛 111 | 🌐 Go | 📅 2024-05-14
 
 **SQLite3**
 
-* <https://github.com/mattn/go-sqlite3> ⭐ 9,236 | 🐛 151 | 🌐 C | 📅 2026-09-05
+* <https://github.com/mattn/go-sqlite3> ⭐ 9,236 | 🐛 150 | 🌐 C | 📅 2026-09-05
 
 **ORM**
 
-* <https://github.com/go-gorp/gorp> ⭐ 3,745 | 🐛 148 | 🌐 Go | 📅 2024-11-19
+* <https://github.com/go-gorp/gorp> ⭐ 3,744 | 🐛 148 | 🌐 Go | 📅 2024-11-19
 * <https://github.com/jinzhu/gorm> ⭐ 656 | 🐛 10 | 🌐 Go | 📅 2024-08-07
 * <https://github.com/rsc/dbstore> ⭐ 48 | 🐛 0 | 🌐 Go | 📅 2019-06-20
 
@@ -286,7 +286,7 @@ Go2图书：
 ## DevOps
 
 * KusionStack 可编程配置技术栈
-  * <https://github.com/KusionStack/kusion> ⭐ 1,317 | 🐛 55 | 🌐 Go | 📅 2026-09-02
+  * <https://github.com/KusionStack/kusion> ⭐ 1,318 | 🐛 55 | 🌐 Go | 📅 2026-09-02
 
 ***
 
@@ -299,4 +299,4 @@ message queue
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
