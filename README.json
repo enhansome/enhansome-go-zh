@@ -59,7 +59,7 @@
             "open_issues": 6,
             "owner": "wa-lang",
             "repo": "wa",
-            "stars": 1768,
+            "stars": 1770,
             "topics": [
               "language",
               "programming-language",
@@ -181,11 +181,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T22:24:27Z",
-            "open_issues": 10212,
+            "last_commit": "2026-09-24T09:52:30Z",
+            "open_issues": 10217,
             "owner": "golang",
             "repo": "go",
-            "stars": 138962,
+            "stars": 138969,
             "topics": [
               "go",
               "golang",
@@ -211,7 +211,7 @@
             "open_issues": 5,
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3459,
+            "stars": 3460,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -232,7 +232,7 @@
             "open_issues": 5,
             "owner": "golang",
             "repo": "proposal",
-            "stars": 3459,
+            "stars": 3460,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -407,7 +407,7 @@
             "open_issues": 3,
             "owner": "chai2010",
             "repo": "gopherchina2018-cgo-talk",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "cgo",
               "go",
@@ -436,11 +436,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T22:24:27Z",
-            "open_issues": 10212,
+            "last_commit": "2026-09-24T09:52:30Z",
+            "open_issues": 10217,
             "owner": "golang",
             "repo": "go",
-            "stars": 138962,
+            "stars": 138969,
             "topics": [
               "go",
               "golang",
@@ -466,7 +466,7 @@
             "open_issues": 139,
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43898,
+            "stars": 43895,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -518,7 +518,7 @@
             "open_issues": 8,
             "owner": "chai2010",
             "repo": "go-ast-book",
-            "stars": 5512,
+            "stars": 5513,
             "topics": [
               "ast",
               "bison",
@@ -553,7 +553,7 @@
             "open_issues": 6,
             "owner": "wa-lang",
             "repo": "ugo-compiler-book",
-            "stars": 1536,
+            "stars": 1537,
             "topics": [
               "wa",
               "wa-lang",
@@ -579,7 +579,7 @@
             "open_issues": 3,
             "owner": "chai2010",
             "repo": "gopherchina2018-cgo-talk",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "cgo",
               "go",
@@ -638,7 +638,7 @@
             "open_issues": 9,
             "owner": "zxh0",
             "repo": "jvmgo-book",
-            "stars": 1661,
+            "stars": 1662,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -659,7 +659,7 @@
             "open_issues": 6,
             "owner": "zxh0",
             "repo": "luago-book",
-            "stars": 964,
+            "stars": 965,
             "topics": [
               "compiler",
               "golang",
@@ -687,11 +687,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T22:24:27Z",
-            "open_issues": 10212,
+            "last_commit": "2026-09-24T09:52:30Z",
+            "open_issues": 10217,
             "owner": "golang",
             "repo": "go",
-            "stars": 138962,
+            "stars": 138969,
             "topics": [
               "go",
               "golang",
@@ -713,11 +713,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T22:24:27Z",
-            "open_issues": 10212,
+            "last_commit": "2026-09-24T09:52:30Z",
+            "open_issues": 10217,
             "owner": "golang",
             "repo": "go",
-            "stars": 138962,
+            "stars": 138969,
             "topics": [
               "go",
               "golang",
@@ -745,11 +745,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T22:24:27Z",
-            "open_issues": 10212,
+            "last_commit": "2026-09-24T09:52:30Z",
+            "open_issues": 10217,
             "owner": "golang",
             "repo": "go",
-            "stars": 138962,
+            "stars": 138969,
             "topics": [
               "go",
               "golang",
@@ -771,11 +771,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T22:24:27Z",
-            "open_issues": 10212,
+            "last_commit": "2026-09-24T09:52:30Z",
+            "open_issues": 10217,
             "owner": "golang",
             "repo": "go",
-            "stars": 138962,
+            "stars": 138969,
             "topics": [
               "go",
               "golang",
@@ -807,7 +807,7 @@
             "open_issues": 46,
             "owner": "golang",
             "repo": "groupcache",
-            "stars": 13338,
+            "stars": 13337,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -828,7 +828,7 @@
             "open_issues": 113,
             "owner": "golang",
             "repo": "protobuf",
-            "stars": 10084,
+            "stars": 10083,
             "topics": [
               "go",
               "golang",
@@ -851,10 +851,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-08T12:02:23Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "golang",
             "repo": "oauth2",
-            "stars": 5898,
+            "stars": 5899,
             "topics": [
               "go",
               "golang",
@@ -927,7 +927,7 @@
             "open_issues": 18,
             "owner": "golang",
             "repo": "snappy",
-            "stars": 1569,
+            "stars": 1570,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -986,11 +986,11 @@
             "id": 27729907,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T12:52:17Z",
-            "open_issues": 136,
+            "last_commit": "2026-09-24T11:57:37Z",
+            "open_issues": 140,
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23072,
+            "stars": 23073,
             "topics": [
               "dogs-over-cats",
               "giant-robots",
@@ -1018,11 +1018,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T12:49:01Z",
-            "open_issues": 822,
+            "last_commit": "2026-09-24T04:50:34Z",
+            "open_issues": 845,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19399,
+            "stars": 19411,
             "topics": [
               "containers",
               "docker",
@@ -1051,7 +1051,7 @@
             "open_issues": 2,
             "owner": "google",
             "repo": "go-cloud",
-            "stars": 9910,
+            "stars": 9912,
             "topics": [
               "aws",
               "azure",
@@ -1079,7 +1079,7 @@
             "id": 32887098,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T18:30:59Z",
+            "last_commit": "2026-09-23T21:01:05Z",
             "open_issues": 51,
             "owner": "googleapis",
             "repo": "googleapis",
@@ -1106,7 +1106,7 @@
             "open_issues": 34,
             "owner": "google",
             "repo": "gops",
-            "stars": 7019,
+            "stars": 7020,
             "topics": [
               "cpu-profile",
               "diagnostics",
@@ -1157,7 +1157,7 @@
             "open_issues": 15,
             "owner": "google",
             "repo": "btree",
-            "stars": 4161,
+            "stars": 4162,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -1186,10 +1186,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-19T01:31:26Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "goplus",
                 "repo": "xgo",
-                "stars": 9457,
+                "stars": 9459,
                 "topics": [
                   "ai-native",
                   "data-science",
@@ -1228,7 +1228,7 @@
                 "open_issues": 6,
                 "owner": "wa-lang",
                 "repo": "wa",
-                "stars": 1768,
+                "stars": 1770,
                 "topics": [
                   "language",
                   "programming-language",
@@ -1258,11 +1258,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T22:24:27Z",
-            "open_issues": 10212,
+            "last_commit": "2026-09-24T09:52:30Z",
+            "open_issues": 10217,
             "owner": "golang",
             "repo": "go",
-            "stars": 138962,
+            "stars": 138969,
             "topics": [
               "go",
               "golang",
@@ -1285,7 +1285,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2024-11-15T14:58:04Z",
-            "open_issues": 102,
+            "open_issues": 103,
             "owner": "mbasso",
             "repo": "awesome-wasm",
             "stars": 9645,
@@ -1380,7 +1380,7 @@
             "open_issues": 84,
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14642,
+            "stars": 14643,
             "topics": [
               "database",
               "go",
@@ -1402,10 +1402,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-15T03:40:54Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "etcd-io",
             "repo": "bbolt",
-            "stars": 9749,
+            "stars": 9750,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -1422,11 +1422,11 @@
             "id": 80087836,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T20:08:57Z",
+            "last_commit": "2026-09-23T22:01:09Z",
             "open_issues": 68,
             "owner": "dgraph-io",
             "repo": "badger",
-            "stars": 15767,
+            "stars": 15769,
             "topics": [
               "database",
               "document-database",
@@ -1455,7 +1455,7 @@
             "open_issues": 111,
             "owner": "syndtr",
             "repo": "goleveldb",
-            "stars": 6321,
+            "stars": 6322,
             "topics": [
               "database",
               "go",
@@ -1480,7 +1480,7 @@
             "open_issues": 149,
             "owner": "mattn",
             "repo": "go-sqlite3",
-            "stars": 9239,
+            "stars": 9241,
             "topics": [
               "go",
               "sqlite",
@@ -1505,7 +1505,7 @@
             "open_issues": 148,
             "owner": "go-gorp",
             "repo": "gorp",
-            "stars": 3744,
+            "stars": 3745,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -1557,7 +1557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T13:02:03.340Z",
+    "last_updated": "2026-09-24T12:55:05.394Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Go资源精选中文版(含中文图书大全)",
