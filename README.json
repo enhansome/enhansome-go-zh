@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "KCL 配置编程语言(Rust): https://github.com/KusionStack/KCLVM",
-          "description": null,
+          "description": "kcl-lang/kcl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,7 +46,7 @@
         {
           "node_type": "item",
           "title": "凹语言™: https://github.com/wa-lang/wa",
-          "description": null,
+          "description": "wa-lang/wa",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -59,7 +59,7 @@
             "open_issues": 6,
             "owner": "wa-lang",
             "repo": "wa",
-            "stars": 1770,
+            "stars": 1769,
             "topics": [
               "language",
               "programming-language",
@@ -72,7 +72,7 @@
         {
           "node_type": "item",
           "title": "KusonStack一站式可编程配置技术栈(Go): https://github.com/KusionStack/kusion",
-          "description": null,
+          "description": "KusionStack/kusion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -114,7 +114,7 @@
         {
           "node_type": "item",
           "title": "Go进阶: https://github.com/chai2010/advanced-go-programming-book",
-          "description": null,
+          "description": "chai2010/advanced-go-programming-book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -127,7 +127,7 @@
             "open_issues": 61,
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20094,
+            "stars": 20093,
             "topics": [
               "asm",
               "book",
@@ -172,7 +172,7 @@
         {
           "node_type": "item",
           "title": "维基: https://github.com/golang/go/wiki",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -181,11 +181,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10282,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -198,7 +198,7 @@
         {
           "node_type": "item",
           "title": "golang/proposal",
-          "description": null,
+          "description": "golang/proposal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -219,7 +219,7 @@
         {
           "node_type": "item",
           "title": "golang/proposal",
-          "description": null,
+          "description": "golang/proposal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -240,7 +240,7 @@
         {
           "node_type": "item",
           "title": "go2设计草案介绍",
-          "description": null,
+          "description": "songtianyi/songtianyi.github.io",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -427,7 +427,7 @@
         {
           "node_type": "item",
           "title": "官方收录图书: https://github.com/golang/go/wiki/Books",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -436,11 +436,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10282,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -453,7 +453,7 @@
         {
           "node_type": "item",
           "title": "Go Web编程: https://github.com/astaxie/build-web-application-with-golang",
-          "description": null,
+          "description": "astaxie/build-web-application-with-golang",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -466,7 +466,7 @@
             "open_issues": 139,
             "owner": "astaxie",
             "repo": "build-web-application-with-golang",
-            "stars": 43889,
+            "stars": 43890,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -474,7 +474,7 @@
         {
           "node_type": "item",
           "title": "Go高级编程: https://github.com/chai2010/advanced-go-programming-book",
-          "description": null,
+          "description": "chai2010/advanced-go-programming-book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -487,7 +487,7 @@
             "open_issues": 61,
             "owner": "chai2010",
             "repo": "advanced-go-programming-book",
-            "stars": 20094,
+            "stars": 20093,
             "topics": [
               "asm",
               "book",
@@ -505,7 +505,7 @@
         {
           "node_type": "item",
           "title": "Go语法树入门: https://github.com/chai2010/go-ast-book",
-          "description": null,
+          "description": "chai2010/go-ast-book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -518,7 +518,7 @@
             "open_issues": 8,
             "owner": "chai2010",
             "repo": "go-ast-book",
-            "stars": 5514,
+            "stars": 5513,
             "topics": [
               "ast",
               "bison",
@@ -540,7 +540,7 @@
         {
           "node_type": "item",
           "title": "µGo语言实现: https://github.com/wa-lang/ugo-compiler-book",
-          "description": null,
+          "description": "wa-lang/ugo-compiler-book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -550,7 +550,7 @@
             "language": "Go",
             "license": null,
             "last_commit": "2024-09-26T00:49:56Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "wa-lang",
             "repo": "ugo-compiler-book",
             "stars": 1536,
@@ -566,7 +566,7 @@
         {
           "node_type": "item",
           "title": "胡文Go.ogle: https://github.com/chai2010/gopherchina2018-cgo-talk/blob/master/go.ogle.pdf",
-          "description": null,
+          "description": "chai2010/gopherchina2018-cgo-talk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,7 +593,7 @@
         {
           "node_type": "item",
           "title": "Go2编程指南: https://github.com/chai2010/go2-book",
-          "description": null,
+          "description": "golang-china/go2-book",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -606,7 +606,7 @@
             "open_issues": 4,
             "owner": "golang-china",
             "repo": "go2-book",
-            "stars": 1805,
+            "stars": 1803,
             "topics": [
               "book",
               "go",
@@ -678,7 +678,7 @@
         {
           "node_type": "item",
           "title": "golang/go",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -687,11 +687,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10282,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -704,7 +704,7 @@
         {
           "node_type": "item",
           "title": "golang/go",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,11 +713,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10282,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -736,7 +736,7 @@
         {
           "node_type": "item",
           "title": "golang/go",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -745,11 +745,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10282,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -762,7 +762,7 @@
         {
           "node_type": "item",
           "title": "golang/go",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -771,11 +771,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10282,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -794,7 +794,7 @@
         {
           "node_type": "item",
           "title": "golang/groupcache",
-          "description": null,
+          "description": "golang/groupcache",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -815,7 +815,7 @@
         {
           "node_type": "item",
           "title": "golang/protobuf",
-          "description": null,
+          "description": "golang/protobuf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -828,7 +828,7 @@
             "open_issues": 113,
             "owner": "golang",
             "repo": "protobuf",
-            "stars": 10078,
+            "stars": 10077,
             "topics": [
               "go",
               "golang",
@@ -841,7 +841,7 @@
         {
           "node_type": "item",
           "title": "golang/oauth2",
-          "description": null,
+          "description": "golang/oauth2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -854,7 +854,7 @@
             "open_issues": 62,
             "owner": "golang",
             "repo": "oauth2",
-            "stars": 5901,
+            "stars": 5900,
             "topics": [
               "go",
               "golang",
@@ -867,7 +867,7 @@
         {
           "node_type": "item",
           "title": "golang/glog",
-          "description": null,
+          "description": "golang/glog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -888,7 +888,7 @@
         {
           "node_type": "item",
           "title": "golang/geo",
-          "description": null,
+          "description": "golang/geo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -914,7 +914,7 @@
         {
           "node_type": "item",
           "title": "golang/snappy",
-          "description": null,
+          "description": "golang/snappy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -935,7 +935,7 @@
         {
           "node_type": "item",
           "title": "golang/freetype",
-          "description": null,
+          "description": "golang/freetype",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -956,7 +956,7 @@
         {
           "node_type": "item",
           "title": "rsc/goversion",
-          "description": null,
+          "description": "rsc/goversion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -977,7 +977,7 @@
         {
           "node_type": "item",
           "title": "grpc/grpc-go",
-          "description": null,
+          "description": "grpc/grpc-go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -987,10 +987,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T17:50:33Z",
-            "open_issues": 156,
+            "open_issues": 160,
             "owner": "grpc",
             "repo": "grpc-go",
-            "stars": 23083,
+            "stars": 23085,
             "topics": [
               "dogs-over-cats",
               "giant-robots",
@@ -1009,7 +1009,7 @@
         {
           "node_type": "item",
           "title": "google/gvisor",
-          "description": null,
+          "description": "google/gvisor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1018,11 +1018,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T10:07:29Z",
+            "last_commit": "2026-10-03T04:09:04Z",
             "open_issues": 866,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19476,
+            "stars": 19482,
             "topics": [
               "containers",
               "docker",
@@ -1038,7 +1038,7 @@
         {
           "node_type": "item",
           "title": "google/go-cloud",
-          "description": null,
+          "description": "google/go-cloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1070,7 +1070,7 @@
         {
           "node_type": "item",
           "title": "googleapis/googleapis",
-          "description": null,
+          "description": "googleapis/googleapis",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1079,11 +1079,11 @@
             "id": 32887098,
             "language": "Starlark",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:55:46Z",
+            "last_commit": "2026-10-02T18:22:25Z",
             "open_issues": 51,
             "owner": "googleapis",
             "repo": "googleapis",
-            "stars": 8766,
+            "stars": 8765,
             "topics": [
               "protocol-buffers"
             ]
@@ -1093,7 +1093,7 @@
         {
           "node_type": "item",
           "title": "google/gops",
-          "description": null,
+          "description": "google/gops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1121,7 +1121,7 @@
         {
           "node_type": "item",
           "title": "googleapis/google-api-go-client",
-          "description": null,
+          "description": "googleapis/google-api-go-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1130,7 +1130,7 @@
             "id": 27096595,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-01T17:40:02Z",
+            "last_commit": "2026-10-02T23:00:30Z",
             "open_issues": 20,
             "owner": "googleapis",
             "repo": "google-api-go-client",
@@ -1144,7 +1144,7 @@
         {
           "node_type": "item",
           "title": "google/btree",
-          "description": null,
+          "description": "google/btree",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1176,7 +1176,7 @@
             {
               "node_type": "item",
               "title": "goplus/xgo",
-              "description": null,
+              "description": "goplus/xgo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1185,8 +1185,8 @@
                 "id": 47859258,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T17:36:47Z",
-                "open_issues": 48,
+                "last_commit": "2026-10-02T17:33:00Z",
+                "open_issues": 49,
                 "owner": "goplus",
                 "repo": "xgo",
                 "stars": 9460,
@@ -1215,7 +1215,7 @@
             {
               "node_type": "item",
               "title": "wa-lang/wa",
-              "description": null,
+              "description": "wa-lang/wa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1228,7 +1228,7 @@
                 "open_issues": 6,
                 "owner": "wa-lang",
                 "repo": "wa",
-                "stars": 1770,
+                "stars": 1769,
                 "topics": [
                   "language",
                   "programming-language",
@@ -1249,7 +1249,7 @@
         {
           "node_type": "item",
           "title": "golang/go",
-          "description": null,
+          "description": "golang/go",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1258,11 +1258,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10282,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139122,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -1275,7 +1275,7 @@
         {
           "node_type": "item",
           "title": "mbasso/awesome-wasm",
-          "description": null,
+          "description": "mbasso/awesome-wasm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1288,7 +1288,7 @@
             "open_issues": 107,
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9646,
+            "stars": 9648,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1306,7 +1306,7 @@
         {
           "node_type": "item",
           "title": "wasmlang/awesome-wasm-zh",
-          "description": null,
+          "description": "wasmlang/awesome-wasm-zh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1367,7 +1367,7 @@
         {
           "node_type": "item",
           "title": "boltdb/bolt",
-          "description": null,
+          "description": "boltdb/bolt",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1380,7 +1380,7 @@
             "open_issues": 84,
             "owner": "boltdb",
             "repo": "bolt",
-            "stars": 14643,
+            "stars": 14642,
             "topics": [
               "database",
               "go",
@@ -1392,7 +1392,7 @@
         {
           "node_type": "item",
           "title": "etcd-io/bbolt",
-          "description": null,
+          "description": "etcd-io/bbolt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1405,7 +1405,7 @@
             "open_issues": 33,
             "owner": "etcd-io",
             "repo": "bbolt",
-            "stars": 9768,
+            "stars": 9767,
             "topics": []
           },
           "first_seen": "2026-08-28T19:36:19.265Z"
@@ -1413,7 +1413,7 @@
         {
           "node_type": "item",
           "title": "dgraph-io/badger",
-          "description": null,
+          "description": "dgraph-io/badger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1422,7 +1422,7 @@
             "id": 80087836,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T20:04:03Z",
+            "last_commit": "2026-10-02T16:52:27Z",
             "open_issues": 73,
             "owner": "dgraph-io",
             "repo": "badger",
@@ -1442,7 +1442,7 @@
         {
           "node_type": "item",
           "title": "syndtr/goleveldb",
-          "description": null,
+          "description": "syndtr/goleveldb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1467,7 +1467,7 @@
         {
           "node_type": "item",
           "title": "mattn/go-sqlite3",
-          "description": null,
+          "description": "mattn/go-sqlite3",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1480,7 +1480,7 @@
             "open_issues": 148,
             "owner": "mattn",
             "repo": "go-sqlite3",
-            "stars": 9245,
+            "stars": 9246,
             "topics": [
               "go",
               "sqlite",
@@ -1492,7 +1492,7 @@
         {
           "node_type": "item",
           "title": "go-gorp/gorp",
-          "description": null,
+          "description": "go-gorp/gorp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1513,7 +1513,7 @@
         {
           "node_type": "item",
           "title": "jinzhu/gorm",
-          "description": null,
+          "description": "jinzhu/gorm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1534,7 +1534,7 @@
         {
           "node_type": "item",
           "title": "rsc/dbstore",
-          "description": null,
+          "description": "rsc/dbstore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1557,7 +1557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:10:34.461Z",
+    "last_updated": "2026-10-03T04:50:23.260Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: Go资源精选中文版(含中文图书大全)",
