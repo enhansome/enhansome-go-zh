@@ -1,6 +1,6 @@
 # Awesome Go资源精选中文版 with stars
 
-* *KCL 配置编程语言(Rust): <https://github.com/KusionStack/KCLVM> ⭐ 2,441 | 🐛 16 | 🌐 Rust | 📅 2026-11-06*
+* *KCL 配置编程语言(Rust): <https://github.com/KusionStack/KCLVM> ⭐ 2,442 | 🐛 16 | 🌐 Rust | 📅 2026-11-06*
 * *凹语言™: <https://github.com/wa-lang/wa> ⭐ 1,772 | 🐛 6 | 🌐 Go | 📅 2026-04-30*
 * *KusonStack一站式可编程配置技术栈(Go): <https://github.com/KusionStack/kusion> ⭐ 1,323 | 🐛 59 | 🌐 Go | 📅 2026-10-30*
 
@@ -19,7 +19,7 @@ Go中国讨论组: <https://groups.google.com/forum/#!forum/golang-china>
 
 ## 其它awesome
 
-* <https://github.com/avelino/awesome-go> ⭐ 192,554 | 🐛 112 | 🌐 Go | 📅 2026-11-06
+* <https://github.com/avelino/awesome-go> ⭐ 192,738 | 🐛 114 | 🌐 Go | 📅 2026-11-06
 
 ## 中国区Go语言贡献者
 
@@ -30,14 +30,14 @@ Go中国讨论组: <https://groups.google.com/forum/#!forum/golang-china>
 ## 入门到精通
 
 1. Go进阶: <https://github.com/chai2010/advanced-go-programming-book> ⭐ 20,091 | 🐛 61 | 🌐 Go | 📅 2025-10-07
-2. Go圣经: <https://gopl.io>, <https://github.com/golang-china/gopl-zh> ⭐ 6,347 | 🐛 22 | 🌐 HTML | 📅 2026-07-03
+2. Go圣经: <https://gopl.io>, <https://github.com/golang-china/gopl-zh> ⭐ 6,346 | 🐛 22 | 🌐 HTML | 📅 2026-07-03
 3. Go指南: <https://tour.golang.org>, <https://tour.go-zh.org/>
 
 ***
 
 ## 官方文档(所有第三方文档的灵感来源)
 
-1. 维基: <https://github.com/golang/go/wiki> ⭐ 139,775 | 🐛 9,917 | 🌐 Go | 📅 2026-11-07
+1. 维基: <https://github.com/golang/go/wiki> ⭐ 139,786 | 🐛 9,928 | 🌐 Go | 📅 2026-11-08
 2. 官网: <https://golang.org/>, <https://golang.google.cn/>
 3. 博客: <https://blog.golang.org/>
 4. 报告: <https://talks.golang.org/>
@@ -52,8 +52,8 @@ Go中国讨论组: <https://groups.google.com/forum/#!forum/golang-china>
 
 Go2 草案:
 
-* <https://github.com/golang/proposal/blob/master/design/go2draft-generics-overview.md> ⭐ 3,456 | 🐛 5 | 🌐 HTML | 📅 2026-10-16
-* <https://github.com/golang/proposal/blob/master/design/go2draft-error-handling.md> ⭐ 3,456 | 🐛 5 | 🌐 HTML | 📅 2026-10-16
+* <https://github.com/golang/proposal/blob/master/design/go2draft-generics-overview.md> ⭐ 3,457 | 🐛 5 | 🌐 HTML | 📅 2026-10-16
+* <https://github.com/golang/proposal/blob/master/design/go2draft-error-handling.md> ⭐ 3,457 | 🐛 5 | 🌐 HTML | 📅 2026-10-16
 * [go2设计草案介绍](https://github.com/songtianyi/songtianyi.github.io/blob/master/mds/techniques/go2-design-draft-introduction.md) ⭐ 77 | 🐛 0 | 🌐 HTML | 📅 2024-09-06
 * <https://blog.golang.org/go2draft>
 * <https://go.googlesource.com/proposal/+/master/design/go2draft.md>
@@ -90,8 +90,8 @@ Go2 草案:
 
 ## Go语言电子书
 
-1. 官方收录图书: <https://github.com/golang/go/wiki/Books> ⭐ 139,775 | 🐛 9,917 | 🌐 Go | 📅 2026-11-07
-2. Go Web编程: <https://github.com/astaxie/build-web-application-with-golang> ⭐ 43,857 | 🐛 139 | 🌐 Go | 📅 2024-05-12
+1. 官方收录图书: <https://github.com/golang/go/wiki/Books> ⭐ 139,786 | 🐛 9,928 | 🌐 Go | 📅 2026-11-08
+2. Go Web编程: <https://github.com/astaxie/build-web-application-with-golang> ⭐ 43,856 | 🐛 139 | 🌐 Go | 📅 2024-05-12
 3. Go高级编程: <https://github.com/chai2010/advanced-go-programming-book> ⭐ 20,091 | 🐛 61 | 🌐 Go | 📅 2025-10-07
 4. Go语法树入门: <https://github.com/chai2010/go-ast-book> ⭐ 5,505 | 🐛 8 | 🌐 Go | 📅 2024-09-26
 5. µGo语言实现: <https://github.com/wa-lang/ugo-compiler-book> ⭐ 1,534 | 🐛 6 | 🌐 Go | 📅 2024-09-26
@@ -169,15 +169,15 @@ Go2图书：
 
 ## Go2
 
-* <https://github.com/golang/go/wiki/Go2> ⭐ 139,775 | 🐛 9,917 | 🌐 Go | 📅 2026-11-07
-* <https://github.com/golang/go/labels/Go2> ⭐ 139,775 | 🐛 9,917 | 🌐 Go | 📅 2026-11-07
+* <https://github.com/golang/go/wiki/Go2> ⭐ 139,786 | 🐛 9,928 | 🌐 Go | 📅 2026-11-08
+* <https://github.com/golang/go/labels/Go2> ⭐ 139,786 | 🐛 9,928 | 🌐 Go | 📅 2026-11-08
 
 ## Go Modules
 
 **官方文档**
 
-* <https://github.com/golang/go/wiki/vgo> ⭐ 139,775 | 🐛 9,917 | 🌐 Go | 📅 2026-11-07
-* <https://github.com/golang/go/wiki/Modules> ⭐ 139,775 | 🐛 9,917 | 🌐 Go | 📅 2026-11-07
+* <https://github.com/golang/go/wiki/vgo> ⭐ 139,786 | 🐛 9,928 | 🌐 Go | 📅 2026-11-08
+* <https://github.com/golang/go/wiki/Modules> ⭐ 139,786 | 🐛 9,928 | 🌐 Go | 📅 2026-11-08
 * <https://tip.golang.org/cmd/go/#hdr-Modules__module_versions__and_more>
 * <https://research.swtch.com/vgo>
 
@@ -199,8 +199,8 @@ Go2图书：
 *Go team:*
 
 * <https://github.com/golang/groupcache> ⭐ 13,335 | 🐛 46 | 🌐 Go | 📅 2024-11-29
-* <https://github.com/golang/protobuf/> ⭐ 10,072 | 🐛 114 | 🌐 Go | 📅 2026-09-15
-* <https://github.com/golang/oauth2> ⭐ 5,906 | 🐛 65 | 🌐 Go | 📅 2026-11-06
+* <https://github.com/golang/protobuf/> ⭐ 10,073 | 🐛 114 | 🌐 Go | 📅 2026-09-15
+* <https://github.com/golang/oauth2> ⭐ 5,907 | 🐛 65 | 🌐 Go | 📅 2026-11-06
 * <https://github.com/golang/glog> ⭐ 3,597 | 🐛 3 | 🌐 Go | 📅 2025-04-29
 * <https://github.com/golang/geo> ⭐ 1,854 | 🐛 33 | 🌐 Go | 📅 2026-11-06
 * <https://github.com/golang/snappy> ⭐ 1,572 | 🐛 18 | 🌐 Go | 📅 2026-07-16
@@ -209,12 +209,12 @@ Go2图书：
 
 *Google team:*
 
-* <https://github.com/grpc/grpc-go> ⭐ 23,106 | 🐛 196 | 🌐 Go | 📅 2026-11-04
-* <https://github.com/google/gvisor> ⭐ 19,906 | 🐛 1,106 | 🌐 Go | 📅 2026-11-07
+* <https://github.com/grpc/grpc-go> ⭐ 23,107 | 🐛 201 | 🌐 Go | 📅 2026-11-04
+* <https://github.com/google/gvisor> ⭐ 19,919 | 🐛 1,134 | 🌐 Go | 📅 2026-11-08
 * <https://github.com/google/go-cloud> ⭐ 9,921 | 🐛 3 | 🌐 Go | 📅 2026-11-02
 * <https://github.com/googleapis/googleapis> ⭐ 8,815 | 🐛 51 | 🌐 Starlark | 📅 2026-11-07
 * <https://github.com/google/gops> ⭐ 7,023 | 🐛 38 | 🌐 Go | 📅 2026-07-16
-* <https://github.com/google/google-api-go-client> ⭐ 4,498 | 🐛 25 | 🌐 Go | 📅 2026-11-07
+* <https://github.com/google/google-api-go-client> ⭐ 4,498 | 🐛 25 | 🌐 Go | 📅 2026-11-08
 * <https://github.com/google/btree> ⚠️ Archived
 
 ***
@@ -232,13 +232,13 @@ Go2图书：
 
 **Go官方资料**
 
-* <https://github.com/golang/go/tree/master/misc/wasm> ⭐ 139,775 | 🐛 9,917 | 🌐 Go | 📅 2026-11-07
+* <https://github.com/golang/go/tree/master/misc/wasm> ⭐ 139,786 | 🐛 9,928 | 🌐 Go | 📅 2026-11-08
 * <https://tip.golang.org/pkg/syscall/js>
 
 **wasm资料精选**
 
-* <https://github.com/mbasso/awesome-wasm> ⭐ 9,672 | 🐛 142 | 📅 2026-10-09
-* <https://github.com/chai2010/awesome-wasm-zh> ⭐ 1,035 | 🐛 2 | 🌐 WebAssembly | 📅 2024-10-12
+* <https://github.com/mbasso/awesome-wasm> ⭐ 9,672 | 🐛 143 | 📅 2026-10-09
+* <https://github.com/chai2010/awesome-wasm-zh> ⭐ 1,034 | 🐛 2 | 🌐 WebAssembly | 📅 2024-10-12
 * <https://gopry.rice.sh/>
 
 **WebAssembly图书**
@@ -264,16 +264,16 @@ Go2图书：
 **BoltDB**
 
 * <https://github.com/boltdb/bolt> ⚠️ Archived
-* <https://github.com/etcd-io/bbolt> ⭐ 9,808 | 🐛 38 | 🌐 Go | 📅 2026-11-06
+* <https://github.com/etcd-io/bbolt> ⭐ 9,811 | 🐛 38 | 🌐 Go | 📅 2026-11-06
 
 **LevelDB**
 
-* <https://github.com/dgraph-io/badger> ⭐ 15,800 | 🐛 87 | 🌐 Go | 📅 2026-10-20
+* <https://github.com/dgraph-io/badger> ⭐ 15,801 | 🐛 87 | 🌐 Go | 📅 2026-10-20
 * <https://github.com/syndtr/goleveldb> ⭐ 6,316 | 🐛 113 | 🌐 Go | 📅 2024-05-14
 
 **SQLite3**
 
-* <https://github.com/mattn/go-sqlite3> ⭐ 9,270 | 🐛 156 | 🌐 C | 📅 2026-11-05
+* <https://github.com/mattn/go-sqlite3> ⭐ 9,271 | 🐛 156 | 🌐 C | 📅 2026-11-05
 
 **ORM**
 
@@ -299,4 +299,4 @@ message queue
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
